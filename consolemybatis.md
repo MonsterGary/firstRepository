@@ -1,3 +1,6 @@
+eclipse 创建mybatis-config.xml、mapper.xml文件===https://blog.csdn.net/qq_21202769/article/details/87035933
+
+
 <!-- Mybatis提供的标准日志输出 -->
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
