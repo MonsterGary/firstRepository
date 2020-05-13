@@ -1,0 +1,1 @@
+1.applicationcontext，springmvc-config中的    <context:component-scan base-package="spring.com.xxx"/>  上级包不能省略
